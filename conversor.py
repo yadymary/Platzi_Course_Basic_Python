@@ -8,7 +8,7 @@ def conversor(tipo_pesos, valor_dolar):
 
 
 menu = """
-Bienvenido al conversor de monedas locales a dólar estadounidense💰
+Bienvenido al conversor de monedas locales a dólar estadounidense 💰
 
 1 - Moneda Pesos Mexicanos
 2 - Moneda Bitcoin
